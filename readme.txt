@@ -7,3 +7,5 @@ git remote add origin git@github.com:gitlip1957/learngit.gitoo
 
 
 git abs git kill
+
+creating a new branch is quick and simple.
