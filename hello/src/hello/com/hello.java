@@ -18,5 +18,7 @@ public class hello {
 		System.out.println("test push ");
 		
 		System.out.println("test push two!");
+		
+		System.out.println("jee git first work");
 	}
 }
