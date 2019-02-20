@@ -16,5 +16,7 @@ public class hello {
 		System.out.println("git checkout -b dev");
 		
 		System.out.println("test push ");
+		
+		System.out.println("test push two!");
 	}
 }
