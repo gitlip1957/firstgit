@@ -7,6 +7,8 @@ public class hello {
 		
 		System.out.println("--- 主程序运行 --");
 		
+		System.out.println("主程序 开始运行");
+		
 		System.out.println("aaaaaaaaaaaaaaaaaaaa");
 		
 		System.out.println(" --  主程序结束 -- ");
