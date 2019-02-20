@@ -12,5 +12,7 @@ public class hello {
 		System.out.println("aaaaaaaaaaaaaaaaaaaa");
 		
 		System.out.println(" --  Ö÷³ÌÐò½áÊø -- ");
+		
+		System.out.println("git checkout -b dev");
 	}
 }
