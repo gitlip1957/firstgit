@@ -7,7 +7,7 @@ import cn.copy.dao.UserDao;
 import cn.copy.model.User;
 import cn.copy.service.UserService;
 
-@Service
+@Service("UserServiceImpl")
 public class UserServiceImpl implements UserService {
 
 	@Autowired
