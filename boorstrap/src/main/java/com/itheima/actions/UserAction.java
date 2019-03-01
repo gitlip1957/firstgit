@@ -8,7 +8,7 @@ public class UserAction {
 		System.out.println("name:" + name);
 		System.out.println("age:" + age);
 		
-		System.out.println("========  itceshi=aaaaas==============");
+		System.out.println("======== test aaa============");
 		return "success";
 	}
 
