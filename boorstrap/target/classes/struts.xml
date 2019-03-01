@@ -1,0 +1,10 @@
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	<package name="xxxx" namespace="/test" extends="struts-default">
+		<action name="myLogin" class="com.itheima.actions.UserAction">
+			<result name="success">/welcome.jsp</result>
+		</action>
+	</package>
+</struts>
