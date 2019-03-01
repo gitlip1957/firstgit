@@ -7,6 +7,8 @@ public class UserAction {
 	public String execute() {
 		System.out.println("name:" + name);
 		System.out.println("age:" + age);
+		
+		System.out.println("gitceshi===============");
 		return "success";
 	}
 
