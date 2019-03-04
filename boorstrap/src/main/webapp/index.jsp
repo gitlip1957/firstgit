@@ -10,8 +10,10 @@
 	<form action="test/myLogin.action" method="post">
 		姓名：<input type="text" name="name" /><br /> 
 		年龄：<input type="text"	name="age"  /><br /> 
-		<input type="submit" value="登录" />
-		<img src="img/loading.gif">
+		<input type="submit" value="登录" /><br /> 
+		<img src="img/loading.gif"><br /> 
+		<img src="img/loading2.gif"><br /> 
+		<img src="img/loading3.gif"><br /> 
 			
 		</<img>
 	</form>
