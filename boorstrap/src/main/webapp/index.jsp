@@ -11,6 +11,9 @@
 		姓名：<input type="text" name="name" /><br /> 
 		年龄：<input type="text"	name="age"  /><br /> 
 		<input type="submit" value="登录" />
+		<img src="img/loading.gif">
+			
+		</<img>
 	</form>
 </body>
 </html>
